@@ -1,3 +1,10 @@
+21050111067 Zeyneb Çınar
+23050111079 Elif Yıldırım
+20050111069 Ahmet Sait Altunbaş
+23050121003 Minel Demirci
+21050111015 Selman Aksu
+
+
 import java.util.ArrayList;
 import java.util.List;
 
